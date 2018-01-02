@@ -1,0 +1,42 @@
+{
+  "name": "koa-x-hub",
+  "version": "1.0.0",
+  "description": "X-Hub-Signature Koa Middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudkipme/koa-x-hub.git"
+  },
+  "keywords": [
+    "koa",
+    "x-hub",
+    "xhub",
+    "signature",
+    "middleware"
+  ],
+  "author": {
+    "name": "Mudkip",
+    "email": "i@mudkip.me",
+    "url": "https://mudkip.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mudkipme/koa-x-hub/issues"
+  },
+  "homepage": "https://github.com/mudkipme/koa-x-hub",
+  "devDependencies": {
+    "jest": "^22.0.4",
+    "koa": "^2.4.1",
+    "koa-bodyparser": "^4.2.0",
+    "supertest": "^3.0.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "engines": {
+    "node": ">=7.6"
+  }
+}

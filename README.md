@@ -2,8 +2,10 @@ koa-x-hub
 =========
 
 [![NPM version](https://img.shields.io/npm/v/koa-x-hub.svg)](https://npmjs.org/package/koa-x-hub)
-[![build status](https://img.shields.io/travis/mudkipme/koa-x-hub.svg)](https://travis-ci.org/koajs/bodyparser)
+[![build status](https://img.shields.io/travis/mudkipme/koa-x-hub.svg)](https://travis-ci.org/mudkipme/koa-x-hub)
 [![node version](https://img.shields.io/badge/node.js-%3E=_7.6-green.svg)](https://nodejs.org/en/download/)
+
+X-Hub-Signature Koa Middleware.
 
 ## Install
 
